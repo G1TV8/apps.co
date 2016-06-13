@@ -5,12 +5,12 @@
 Con la creación de este repositorio, queremos ofrecer un proceso transparente y empoderar a los emprendedores y miembros de la comunidad para que participen en el proceso de construcción y mejoramiento de [Apps punto Co](https://apps.co).
 
 
-### Cuál es el objetivo de este reposirio?
+### ¿Cuál es el objetivo de este reposirio?
 
 En principio, el objetivo de este repositorio es servir como "Issue tracker", es decir un lugar donde reportar problemas técnicos y de flujos en la plataforma.
 
 
-### Cómo obtener ayuda ó reportar problemas sobre Apps punto Co?
+### ¿Cómo obtener ayuda ó reportar problemas sobre Apps punto Co?
 
 Para reportar un problema ó obtener ayuda, debes [crear un issue](https://github.com/MinTIC/apps.co/issues/new) contando tu caso. 
 Entre otros, puedes reportar:
