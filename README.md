@@ -1,11 +1,10 @@
 # Plataforma [Apps.co](https://apps.co)
 
-![Apps.co](https://pbs.twimg.com/profile_images/740642356936986625/DKrtMEiy.jpg)
-
 [Apps punto Co](https://apps.co) es una iniciativa del [MinTIC](http://www.mintic.gov.co/) con su plan Vive Digital que busca promover e impulsar negocios con base TIC principalmente en tres categorias: Contenidos, Sofware y Aplicaciones móviles.
 
 Con la creación de este repositorio, queremos ofrecer un proceso transparente y empoderar a los emprendedores y miembros de la comunidad para que participen en el proceso de construcción y mejoramiento de [Apps punto Co](https://apps.co).
 
+![Apps.co](https://raw.githubusercontent.com/MinTIC/apps.co/master/screenshot.png)
 
 ### ¿Cuál es el objetivo de este repositorio?
 
