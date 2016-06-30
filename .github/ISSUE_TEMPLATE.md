@@ -1,11 +1,15 @@
-#### Describe tu problema
+
+**Estoy reportando un/una ...**  (Marca uno con una "x")
+
+```
+[ ] reporte de un bug
+[ ] nueva funcionalidad en la plataforma
+[ ] Idea o sugerencia
+```
+
+
+**Describe tu reporte**
 
 ...
 
-#### ¿Qué navegador usas y en que versión?
 
-...
-
-#### ¿Cuál es tu sistema operativo?
-
-...
